@@ -17,6 +17,7 @@ to quickly create a new README file.
 **Badges** (optional): At the very top (with no subheading), include any
 applicable badges, such as npm version/downloads, build status, test coverage,
 and so on. Badges should resolve properly (not display a broken image).
+SHEREEEEYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 Possible badges include:
 - npm version: `[![NPM Version][npm-image]][npm-url]`
